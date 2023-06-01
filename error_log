@@ -1,0 +1,266 @@
+[28-May-2023 14:33:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\' (tried: C:\ (Не найден указанный модуль), C:\php\ext\php_C:\.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:33:48 UTC] PHP Warning:  Undefined variable $ind in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 10
+[28-May-2023 14:35:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\' (tried: C:\ (Не найден указанный модуль), C:\php\ext\php_C:\.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:35:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll' (tried: C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll (%1 не является приложением Win32), C:\php\ext\php_C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:35:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll' (tried: C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll (%1 не является приложением Win32), C:\php\ext\php_C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:38:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll' (tried: C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll (%1 не является приложением Win32), C:\php\ext\php_C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll' (tried: C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll (%1 не является приложением Win32), C:\php\ext\php_C:\php-8.2.6-nts-Win32-vs16-x64\php_mysqli.dll.dll (Не найден указанный модуль)) in Unknown on line 0
+[28-May-2023 14:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:39:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:2
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 2
+[28-May-2023 14:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:2
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 2
+[28-May-2023 14:40:31 UTC] PHP Parse error:  syntax error, unexpected identifier "SELECT" in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:40:31 UTC] PHP Parse error:  syntax error, unexpected identifier "SELECT" in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:2
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 2
+[28-May-2023 14:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:2
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 2
+[28-May-2023 14:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(3): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(3): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php:3
+Stack trace:
+#0 C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php(2): include()
+#1 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\models\connect.php on line 3
+[28-May-2023 14:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 4
+[28-May-2023 14:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:22 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:26 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:26 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:26 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:29 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli_connect" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli_connect" not found in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 7
+[28-May-2023 14:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6
+[28-May-2023 14:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\!Важное\!6 семестр\Веб технологии\Catalog\index.php on line 6

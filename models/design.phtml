@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title><?php echo $title ?></title>
+</head>
+<body>
+<?php foreach($rows as $row) { extract($row); ?>
+    <h3>Hello <?php echo $name; ?></h3>
+    <p>The time is: <?php echo $datetime; ?></p>
+    <?php echo "<p>Embedded PHP works too!</p>"; ?>
+<?php } ?>
+</body>
+</html>
